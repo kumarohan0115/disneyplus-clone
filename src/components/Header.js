@@ -51,7 +51,7 @@ const Header = () => {
   return (
     <Nav>
       <Logo>
-        <img src="/images/Logo.svg" alt="" />
+        <img src="/images/logo.svg" alt="" />
       </Logo>
       {
         !userName ?
