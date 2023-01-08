@@ -4,14 +4,14 @@ import 'firebase/compat/auth'
 import 'firebase/compat/storage'
 
 
-
+//for apiKey and all you have to setup firebase hosting from google firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyByxwlSGP-B2a8a2aS7hA03RtC738KQUMQ",
-    authDomain: "disneyplus-clone-fa262.firebaseapp.com",
-    projectId: "disneyplus-clone-fa262",
-    storageBucket: "disneyplus-clone-fa262.appspot.com",
-    messagingSenderId: "1016502558267",
-    appId: "1:1016502558267:web:486b0c65251e3e18f5061e"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 // Initialize Firebase
