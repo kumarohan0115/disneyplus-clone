@@ -1,5 +1,5 @@
 # Disneyplus Clone
-This is a clone web app of Disneyplay
+This is a clone web app of Disneyplus
 
 ### [Link to deployed project](https://disneyplus-clone-fa262.web.app/home)
 ## Technologies Used
